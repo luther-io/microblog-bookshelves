@@ -39,7 +39,7 @@
     "oxfmt": "latest",
     "oxlint": "latest",
     "prettier": "^3.9.6",
-    "typescript": "^5.9.0"
+    "typescript": "^7.0.0"
   },
   "icon": "icon.png",
   "commands": [
